@@ -89,3 +89,6 @@ https://pub.dev/packages/cached_network_image
 ### Support
 
 If you have problems or questions email us at: sulab90@yahoo.com
+
+Model Link:
+https://teachablemachine.withgoogle.com/models/sDRNUSo1O/
