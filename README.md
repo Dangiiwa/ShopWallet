@@ -2,21 +2,19 @@
 # shopwallet
 
 <div>
-  <h1 align="center">Getting Started with Flutter 🚀 </h1>
+  <h1 align="center">Getting Started with ShopWallet 🚀 </h1>
   <strong>
     Generated with ❤️ from Dhiwise
   </strong>
   <p>
-    This is the documentation of Flutter Applications.
-    It holds all the info you need to get started with
-    and make changes to your App
+    This is the documentation of ShopWallet Mobile Application.
+    It holds all the info you need to get started with the App
   </p>
 </div>
 
 
 ### Table of Contents
 - [System Requirements](#system-requirements)
-- [Figma design guideline for better accuracy](#figma-design-guideline-for-better-accuracy)
 - [App Navigations](#app-navigations)
 - [Project Structure](#project-structure)
 - [How you can do code formatting?](#how-you-can-do-code-formatting)
@@ -29,10 +27,6 @@
 Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
 
-### Figma design guideline for better accuracy
-
-Read our guidelines to increase the accuracy of design conversion to code by optimizing Figma designs.
-https://docs.dhiwise.com/knowledgehub/reference-guide-and-tools/figma
 
 ### App Navigations
 
@@ -94,4 +88,4 @@ https://pub.dev/packages/cached_network_image
     
 ### Support
 
-If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+If you have problems or questions email us at: sulab90@yahoo.com
